@@ -57,4 +57,4 @@ Significant variables to predict the demand for shared bikes
 
 
 ## Contact
-Created by saransh-sharma-cloud - feel free to contact me!
+Created by saransh-sharma-cloud.Feel free to contact me!
