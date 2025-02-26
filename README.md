@@ -31,7 +31,6 @@ Based on various meteorological surveys and people's styles, the service provide
 Significant variables to predict the demand for shared bikes
 
 1.) holiday
-
 2.) temp
 3.) hum
 4.) windspeed
